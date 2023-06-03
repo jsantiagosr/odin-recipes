@@ -1,2 +1,2 @@
 # odin-recipes
-Basic recipes page
+This is my first basic website
